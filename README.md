@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @celsoita
+- 👋 Hi, I’m @Celso
 - 👀 I’m interested to learn all programming lenguage ...
 - 🌱 I’m currently learning all i can learn...
 - 💞️ I’m looking to collaborate with someone can teach me...
 - 📫 How to reach me  on discord チェルソ .-.#4041
 
-
+# SKILLS I'M LEARNING
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
