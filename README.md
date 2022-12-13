@@ -1,6 +1,6 @@
 # :computer:  WHO I AM :computer:
 :white_circle: 👋 Hi, I’m @Celso <br>
-<br>:white_circle: 👀 I’m interested to learn all programming lenguage ... <br>
+<br>:white_circle: 👀 I’m interested in learning all programming languages ... <br>
 <br>:white_circle: 🌱 I’m currently learning all i can learn... <br>
 <br>:white_circle: 💞️ I’m looking to collaborate with someone can teach me... <br>
 <br>:white_circle: 📫 How to reach me  on discord チェルソ .-.#4041 <br>
