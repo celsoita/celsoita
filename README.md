@@ -7,7 +7,7 @@
 
 ## SKILLS I'M LEARNING
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux)](https://skillicons.dev)
 
 <!---
 celsoita/celsoita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
