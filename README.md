@@ -8,6 +8,9 @@
 ## SKILLS I'M LEARNING
 
 [![My Skills](https://skillicons.dev/icons?i=c,linux,bash,vim)](https://skillicons.dev)
+<br>
+>>> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbjnq29700060fl4qwttx1n7/stats?cursusId=21&coalitionId=285" alt="cschiavo's 42 stats" /></a>
+<br>
 
 <!---
 celsoita/celsoita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
