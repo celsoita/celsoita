@@ -7,7 +7,7 @@
 
 ## SKILLS I'M LEARNING
 
-[![My Skills](https://skillicons.dev/icons?i=c,linux,bash,vim,docker,kubernetes,github,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,bash,vim,docker,kubernetes,github,git,vscode)](https://skillicons.dev)
 <br>
 >>> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbjnq29700060fl4qwttx1n7/stats?cursusId=21&coalitionId=285" alt="cschiavo's 42 stats" /></a>
 <br>
