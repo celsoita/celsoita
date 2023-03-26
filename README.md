@@ -1,14 +1,14 @@
-# :computer:  WHO I AM :computer:
-:white_circle: 👋 Hi, I’m @Celso <br>
-<br>:white_circle: 👀 I’m interested in learning all programming languages ... <br>
-<br>:white_circle: 🌱 I’m currently learning all i can learn... <br>
-<br>:white_circle: 💞️ I’m looking to collaborate with someone can teach me... <br>
-<br>:white_circle: 📫 How to reach me  on discord チェルソ .-.#4041 <br>
-
-## SKILLS I'M LEARNING
+<h1 align="center">Hi 👋, I'm Celso</h1>
+<br>
+<p align="center">
+ <img width="460" height="300" " src="https://media.tenor.com/Xw9NRtyNMb4AAAAC/simpson.gif">
+ </p>
+<p>
+<h2>## SKILLS I'M LEARNING</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,linux,bash,vim,docker,kubernetes,github,git,vscode)](https://skillicons.dev)
-<br>
+</p>
+                                                                                           <br>
 
 
 <!---
