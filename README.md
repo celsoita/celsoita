@@ -6,7 +6,7 @@
 <p>
 <h2>## SKILLS I'M LEARNING</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,linux,bash,vim,docker,kubernetes,github,git,vscode,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,bash,vim,docker,kubernetes,github,git,vscode,cpp,py,godot)](https://skillicons.dev)
 </p>
                                                                                            <br>
 
